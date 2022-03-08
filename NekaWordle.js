@@ -1,5 +1,6 @@
 neka.Wordle={
 	list:{
-		'2022-03-07T14:58:15.592Z':"Today's Word"
+		'Mon Mar 07 2022':"?????"
+		'Tue Mar 08 2022':"SWEET"
 	}
 }
