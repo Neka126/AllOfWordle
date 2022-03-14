@@ -8,11 +8,11 @@ neka.Wordle={
 		'Sat Mar 12 2022':"TODAY",
 		'Sun Mar 13 2022':"FOCUS",
 		'Mon Mar 14 2022':"SMELT",
-		'Tue Mar 15 2022':"?????",
-		'Wed Mar 16 2022':"?????",
-		'Thu Mar 17 2022':"?????",
-		'Fri Mar 18 2022':"?????",
-		'Sat Mar 19 2022':"?????",
-		'Sun Mar 20 2022':"?????",
+		'Tue Mar 15 2022':"TEASE",
+		'Wed Mar 16 2022':"CATER",
+		'Thu Mar 17 2022':"MOVIE",
+		'Fri Mar 18 2022':"SAUTE",
+		'Sat Mar 19 2022':"ALLOW",
+		'Sun Mar 20 2022':"RENEW",
 	}
 }
