@@ -14,5 +14,9 @@ neka.Wordle={
 		'Fri Mar 18 2022':"SAUTE",
 		'Sat Mar 19 2022':"ALLOW",
 		'Sun Mar 20 2022':"RENEW",
+		'Mon Mar 21 2022':"THEIR",
+		'Tue Mar 22 2022':"SLOSH",
+		'Wed Mar 23 2022':"PURGE",
+		'Thu Mar 24 2022':"CHEST",
 	}
 }
