@@ -18,5 +18,7 @@ neka.Wordle={
 		'Tue Mar 22 2022':"SLOSH",
 		'Wed Mar 23 2022':"PURGE",
 		'Thu Mar 24 2022':"CHEST",
+		'Fri Mar 25 2022':"DEPOT",
+		'Sat Mar 26 2022':"EPOXY",
 	}
 }
