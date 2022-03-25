@@ -20,5 +20,9 @@ neka.Wordle={
 		'Thu Mar 24 2022':"CHEST",
 		'Fri Mar 25 2022':"DEPOT",
 		'Sat Mar 26 2022':"EPOXY",
+		'Sun Mar 27 2022':"NYMPH",
+		'Mon Mar 28 2022':"FOUND",
+		'Tue Mar 29 2022':"SHALL",
+		'Wed Mar 30 2022':"STOVE",
 	}
 }
