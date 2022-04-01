@@ -25,7 +25,7 @@ neka.Wordle={
 		'Tue Mar 29 2022':"SHALL",
 		'Wed Mar 30 2022':"STOVE",
 		'Thu Mar 31 2022':"LOWLY",
-		'Fri Mar 1 2022':"SNOUT",
-		'Sat Mar 2 2022':"TROPE",
+		'Fri Apr 1 2022':"SNOUT",
+		'Sat Apr 2 2022':"TROPE",
 	}
 }
