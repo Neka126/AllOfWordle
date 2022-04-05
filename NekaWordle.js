@@ -30,10 +30,10 @@ neka.Wordle={
 		'Sun Apr 3 2022':"FEWER",
 		'Mon Apr 4 2022':"SHAWL",
 		'Tue Apr 5 2022':"NATAL",
-		'Wed Apr 6 2022':"",
-		'Thu Apr 7 2022':"",
-		'Fri Apr 8 2022':"",
-		'Sat Apr 9 2022':"",
-		'Sun Apr 10 2022':"",
+		'Wed Apr 6 2022':"COMMA",
+		'Thu Apr 7 2022':"FORAY",
+		'Fri Apr 8 2022':"SCARE",
+		'Sat Apr 9 2022':"STARE",
+		'Sun Apr 10 2022':"BLACK",
 	}
 }
