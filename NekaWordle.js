@@ -35,5 +35,15 @@ neka.Wordle={
 		'Fri Apr 08 2022':"SCARE",
 		'Sat Apr 09 2022':"STARE",
 		'Sun Apr 10 2022':"BLACK",
+		'Mon Apr 11 2022':"SQUAD",
+		'Tue Apr 12 2022':"ROYAL",
+		'Wed Apr 13 2022':"CHUNK",
+		'Thu Apr 14 2022':"MINCE",
+		'Fri Apr 15 2022':"SHAME",
+		'Sat Apr 16 2022':"CHEEK",
+		'Sun Apr 18 2022':"AMPLE",
+		'Mon Apr 19 2022':"FLAIR",
+		'Tue Apr 20 2022':"",
+		'Wed Apr 21 2022':"",
 	}
 }
