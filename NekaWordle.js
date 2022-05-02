@@ -55,10 +55,10 @@ neka.Wordle={
 		'Thu Apr 28 2022':"ZESTY",
 		'Fri Apr 29 2022':"TRASH",
 		'Sat Apr 30 2022':"LARVA",
-		'Sun May 1 2022':"FORGO",
-		'Mon May 2 2022':"STORY",
-		'Tue May 3 2022':"HAIRY",
-		'Wed May 4 2022':"TRAIN",
-		'Thu May 5 2022':"HOMER",
+		'Sun May 01 2022':"FORGO",
+		'Mon May 02 2022':"STORY",
+		'Tue May 03 2022':"HAIRY",
+		'Wed May 04 2022':"TRAIN",
+		'Thu May 05 2022':"HOMER",
 	}
 }
