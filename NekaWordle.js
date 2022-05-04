@@ -60,5 +60,10 @@ neka.Wordle={
 		'Tue May 03 2022':"HAIRY",
 		'Wed May 04 2022':"TRAIN",
 		'Thu May 05 2022':"HOMER",
+		'Fri May 06 2022':"BADGE",
+		'Sat May 07 2022':"MIDST",
+		'Sun May 08 2022':"CANNY",
+		'Mon May 09 2022':"FETUS",
+		'Tue May 10 2022':"Butch",
 	}
 }
