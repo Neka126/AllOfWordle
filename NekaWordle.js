@@ -65,7 +65,22 @@ neka.Wordle={
 		'Sun May 08 2022':"CANNY",
 		'Mon May 09 2022':"FETUS",
 		'Tue May 10 2022':"BUTCH",
-		'Tue May 10 2022':"FARCE",
+		'Wed May 11 2022':"FARCE",
+		'Thu May 12 2022':"",
+		'Fri May 13 2022':"",
+		'Sat May 14 2022':"",
+		'Sun May 15 2022':"",
+		'Mon May 16 2022':"",
+		'Tue May 17 2022':"",
+		'Wed May 18 2022':"",
+		'Thu May 19 2022':"",
+		'Fri May 20 2022':"",
+		'Sat May 21 2022':"",
+		'Sun May 22 2022':"",
+		'Mon May 23 2022':"",
+		'Tue May 24 2022':"",
+		'Wed May 25 2022':"",
+		'Wed May 26 2022':"",
 	}
 }
 const La = Object.values(neka.Wordle.list)
