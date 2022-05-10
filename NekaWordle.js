@@ -64,6 +64,8 @@ neka.Wordle={
 		'Sat May 07 2022':"MIDST",
 		'Sun May 08 2022':"CANNY",
 		'Mon May 09 2022':"FETUS",
-		'Tue May 10 2022':"Butch",
+		'Tue May 10 2022':"BUTCH",
+		'Tue May 10 2022':"FARCE",
 	}
 }
+const La = Object.values(neka.Wordle.list)
